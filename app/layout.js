@@ -26,7 +26,7 @@ export default function RootLayout({ children }) {
                   <Link href="/characters" className="nav-link">Characters</Link>
                 </li>
                 <li className="nav-item">
-                  <Link href="/" className="nav-link">Profile </Link>
+                  <Link href="/profile" className="nav-link">Profile</Link>
                 </li>
               </ul>
             </sidebar>
